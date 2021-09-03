@@ -1,4 +1,4 @@
-# RekordboxPlaylistExportToFolder
+# Rekordbox Playlist Export To Folder
 Rekordbox Playlist Export to Folder Script
 
 - get music path file from *.m3u8 playlist export format and bulk copy to destination folder
